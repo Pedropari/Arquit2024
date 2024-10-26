@@ -1,0 +1,3 @@
+Profe, el proyecto para la materia que voy a desarrollar es un CRUD de reconocimiento facial.
+
+La idea principal sería para poder establecer un punto de acceso para el ingreso a un área determinada, aportando los datos de fecha, hora y los sectores donde tuvo acceso mediante el punto de control. 
